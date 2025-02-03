@@ -1,10 +1,18 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UKhayam/UKhayam/main/assets/banner.gif" alt="Umar Khayyam Banner" width="100%" height="250"/>
+</div>
+
 # 👋 Hi there, I'm Umar Khayyam
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Pakistan;Master's+Student+|+CS+GIKI+TOPI+SWABI;Next+JS+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
 ## About Me
-👩‍💻 Software Engineer from Pakistan
-🚀 Full Stack Developer passionate about creating impactful web applications
-🌱 Currently learning and growing in the world of software development
-💡 Always excited to collaborate on interesting projects
+##👩‍💻 Software Engineer from Pakistan
+##🚀 Full Stack Developer passionate about creating impactful web applications
+##🌱 Currently learning and growing in the world of software development
+##💡 Always excited to collaborate on interesting projects
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -20,9 +28,6 @@
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&color=informational&logo=sql)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&color=informational&logo=express)
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UKhayam&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 ### 🏭 Inventory System Portal
@@ -83,9 +88,9 @@
 - Mobile-first approach with 95% responsiveness score
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Umar Khayyam](https://www.linkedin.com/in/umer-softdev)
+- Instagram: [@ig_hayam](https://www.instagram.com/ig_hayam/)
+- Portfolio: [Visit_Website](https://hayaam.vercel.app/)
 
 ---
 ⭐️ From [UKhayam](https://github.com/UKhayam)
