@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Pakistan;Master's+Student+|+CS+GIKI+TOPI+SWABI;Next+JS+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Pakistan;Master's+Student+|+CS+GIKI+TOPI+SWABI;Next+JS+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## About Me
