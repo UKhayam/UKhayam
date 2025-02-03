@@ -2,10 +2,14 @@
   <img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" alt="Umar Khayyam Banner" width="100%" height="250"/>
 </div>
 
-# 👋 Hi there, I'm Umar Khayyam
+<div align="center">
+  <h1 style="color: #6366F1; font-size: 3em; margin: 20px 0;">
+    👋 Hey, I'm <span style="background: linear-gradient(to right, #6366F1, #3B82F6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Umar Khayyam</span>
+  </h1>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Pakistan;Master's+Student+|+CS+GIKI+TOPI+SWABI;Next+JS+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Pakistan;Master's+Student+|+CS+GIKI+TOPI+SWABI;Next+JS+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## About Me
