@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UKhayam/UKhayam/main/assets/banner.gif" alt="Umar Khayyam Banner" width="100%" height="250"/>
+  <img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" alt="Umar Khayyam Banner" width="100%" height="250"/>
 </div>
 
 # 👋 Hi there, I'm Umar Khayyam
@@ -9,10 +9,13 @@
 </div>
 
 ## About Me
-##👩‍💻 Software Engineer from Pakistan
-##🚀 Full Stack Developer passionate about creating impactful web applications
-##🌱 Currently learning and growing in the world of software development
-##💡 Always excited to collaborate on interesting projects
+👩‍💻 Software Engineer from Pakistan  
+
+🚀 Full Stack Developer passionate about creating impactful web applications  
+
+🌱 Currently learning and growing in the world of software development  
+
+💡 Always excited to collaborate on interesting projects  
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
